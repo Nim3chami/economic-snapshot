@@ -20,7 +20,7 @@ The dashboard displays country-specific data such as GDP, inflation, unemploymen
 ## Dashboard Screenshots (PDF)
 You can view all screenshots of the dashboard in a single PDF file:
 
-[Download or View PDF](images.pdf)
+[Download or View PDF](./images/images.pdf)
 
 
 
