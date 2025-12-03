@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Economic Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>🌍 Country Economic Snapshot</h1>
+
+        <!-- Input Section -->
+        <div class="input-section">
+            <input type="text" id="countryInput" placeholder="Enter a country (e.g., Japan)">
+            <button onclick="loadData()">Search</button>
+        </div>
+
+        <!-- Error Message -->
+        <p id="error" class="error"></p>
+
+        <!-- Country Info Card -->
+        <div id="countryInfo"></div>
+
+        <!-- Charts for Main Indicators -->
+        <h2>Historical Trends</h2>
+        <canvas id="gdpChart"></canvas>
+        <canvas id="inflationChart"></canvas>
+        <canvas id="unemploymentChart"></canvas>
+        <canvas id="interestChart"></canvas>
+        <canvas id="debtChart"></canvas>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
