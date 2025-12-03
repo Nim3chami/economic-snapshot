@@ -17,16 +17,10 @@ The dashboard displays country-specific data such as GDP, inflation, unemploymen
 
 ---
 
-## Screenshots
+## Dashboard Screenshots (PDF)
+You can view all screenshots of the dashboard in a single PDF file:
 
-**1. Country Search and Overview Card**  
-![Country Card](<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/ce1ca97c-6ddd-45aa-8c92-54628252b944" />)
-
-**2. GDP Trend Chart**  
-![GDP Chart](<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/2a8534fe-ba95-4d97-a995-35b15ff42294" />)
-
-**3. Inflation and Unemployment Charts**  
-![Other Charts](<img width="940" height="518" alt="image" src="https://github.com/user-attachments/assets/67d5e7f6-96d4-4590-9ac9-4b00b22e4986" />)
+[Download or View PDF](images.pdf)
 
 
 
@@ -42,4 +36,4 @@ The dashboard displays country-specific data such as GDP, inflation, unemploymen
 ## Installation and Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/economic-dashboard.git
+   git clone https://github.com/Nim3chami/economic-snapshot
