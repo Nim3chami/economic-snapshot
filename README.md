@@ -1,2 +1,4 @@
 # economic-snapshot
 Currency &amp; Economic Snapshot System Using Service-Oriented Architecture
+The primary purpose of this system is to provide a user-friendly, interactive interface for displaying economic indicators of countries. The dashboard is designed not only to present current economic data but also to illustrate historical trends over multiple years, enabling users to analyze patterns and make comparisons. It serves as a practical tool for students, researchers, and analysts who need to study the economic performance of different countries, offering quick insights into complex datasets that would otherwise require extensive research. The system also emphasizes accessibility and responsiveness, ensuring that users can interact with the dashboard on various devices without compromising usability.
+7.1 Client UI
