@@ -77,16 +77,16 @@ button:hover {
     color: #58a6ff;
 }
 
-/* Stats Grid - 3 columns per row */
+
 .stats-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 indicators per row */
+    grid-template-columns: repeat(3, 1fr); 
     gap: 15px;
 }
 
 @media (max-width: 700px) {
     .stats-grid {
-        grid-template-columns: repeat(2, 1fr); /* 2 per row on tablets */
+        grid-template-columns: repeat(2, 1fr); 
     }
 }
 
